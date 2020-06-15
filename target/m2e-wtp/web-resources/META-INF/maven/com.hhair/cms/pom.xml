@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.hhair</groupId>
 	<artifactId>cms</artifactId>
-	<name>Hhair</name>
+	<name>Hhair_Demo</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
